@@ -14,7 +14,7 @@ and data for a car store.
 
 # Testing the application
 
-When you clone your repository go to Avtosalon/dist/Avtosalon.jar
+When you clone the repository go to Avtosalon/dist/Avtosalon.jar
 
 Note: Before starting the application import the database
 
