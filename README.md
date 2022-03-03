@@ -1,4 +1,4 @@
-# Java Swing Desktop Application
+# Java Swing GUI Desktop Application
 
 # Tehnologies:
 
