@@ -1,6 +1,6 @@
 # Java Swing GUI Desktop Application
 
-# Tehnologies:
+# Technologies:
 
  1. NetBeans IDE
  2. XAMPP
